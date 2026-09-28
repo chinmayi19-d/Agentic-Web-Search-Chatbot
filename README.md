@@ -74,9 +74,6 @@ duckduckgo-search
 ## License!
 MIT
 
-[Uploading Screenshot (778).png…]()
-![Uploading Screenshot (777).png…]()
-
 
 
 
