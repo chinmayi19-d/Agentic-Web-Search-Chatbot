@@ -7,3 +7,4 @@ python-dotenv
 wikipedia
 arxiv
 duckduckgo-search
+ddgs
