@@ -74,6 +74,9 @@ duckduckgo-search
 ## License!
 MIT
 
+## Project Screenshot
 
+![Agentic Web Search Chatbot](agentic-web-search-chatbot1.png)
+![Agentic Web Search Chatbot](agentic-web-search-chatbot2.png)
 
 
