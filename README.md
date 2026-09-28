@@ -76,7 +76,13 @@ MIT
 
 ## Project Screenshot
 
+### Screenshot 1
+
 ![Agentic Web Search Chatbot](agentic-web-search-chatbot1.png)
+
+### Screenshot 2
+
 ![Agentic Web Search Chatbot](agentic-web-search-chatbot2.png)
+
 
 
